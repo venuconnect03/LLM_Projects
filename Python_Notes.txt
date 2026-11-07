@@ -1,0 +1,7 @@
+Python is a programming language created by Guido van Rossum.
+Python was first released in 1991.
+
+Python is used in data science, machine learning, and web development.
+
+Pandas is a Python library used for data analysis.
+NumPy is a Python library used for numerical calculations.
