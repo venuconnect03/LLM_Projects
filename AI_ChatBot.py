@@ -32,7 +32,7 @@ while True:
 
     ai_replay = response.text
 
-    print("Chatbot", ai_replay)
+    print("Chatbot: ", ai_replay)
 
     messages.append({
         "role": "assistant",

@@ -31,7 +31,7 @@ for chunk in chunks:
     chunk_embeddings.append(embedding)
 
 while True:
-    question = input("\n Ask a question:")
+    question = input("\nAsk a question:")
 
     if question == "exit":
         print("See you again!")
