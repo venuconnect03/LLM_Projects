@@ -1,0 +1,16 @@
+Job Title: Junior Data Scientist
+
+Required Skills:
+Python, SQL, Statistics, Machine Learning,
+Deep Learning, Pandas, NumPy, and Power BI.
+
+Responsibilities:
+Analyze datasets, build machine learning models,
+create visualizations, and communicate insights.
+
+Experience:
+Freshers can apply.
+
+Education:
+Bachelor's degree in Computer Science,
+Data Science, or a related field.

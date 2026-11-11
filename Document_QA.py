@@ -7,6 +7,7 @@ client = genai.Client(
 
 with open("Document_Notes.txt", "r") as file:
     document = file.read()
+
 while True:
     question = input("Ask a question about Python: ")
 

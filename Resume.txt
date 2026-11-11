@@ -1,0 +1,18 @@
+Name: Tony Stark
+
+Career Objective:
+Looking for an entry-level Data Science position.
+
+Skills:
+Python, SQL, Pandas, NumPy, Machine Learning.
+
+Education:
+Bachelor of Computer Applications.
+
+Projects:
+1. Student Performance Prediction using Python
+   and Machine Learning.
+2. Data Analysis using Pandas and NumPy.
+
+Experience:
+Fresher.
