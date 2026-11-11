@@ -16,7 +16,7 @@ print("Type 'exit' to stop.\n")
 while True:
     user_input = input("You: ")
 
-    if user_input == "exit":
+    if user_input.lower() == "exit":
         print("Chatbot: Goodbye!")
         break
 
